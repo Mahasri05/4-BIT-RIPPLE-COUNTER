@@ -94,6 +94,7 @@ initial begin
 end
 
 endmodule
+```
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 ![Screenshot 2024-12-26 140037](https://github.com/user-attachments/assets/43792eda-c136-4040-986a-038714f8de38)
